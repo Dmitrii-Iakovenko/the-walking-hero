@@ -1,0 +1,34 @@
+body {
+    height: 100vh;
+} 
+.container{
+    height: 100%;
+}
+.exp_100 {
+    /* bd-green-100 */
+    background-color: #d1e7dd;
+}
+.exp_80 {
+    /* bd-yellow-100 */
+    background-color: #fff3cd;
+}
+.exp_60 {
+    /* bd-orange-100 */
+    background-color: #ffe5d0;
+}
+.exp_40 {
+    /* bd-red-100 */
+    background-color: #f8d7da;
+}
+.exp_20 {
+    /* bd-indigo-100 */
+    background-color: #e0cffc;
+}
+.exp_10 {
+    /* bd-blue-100 */
+    background-color: #cfe2ff;
+}
+.exp_5 {
+    /* bd-gray-300 */
+    background-color: #dee2e6;
+}
